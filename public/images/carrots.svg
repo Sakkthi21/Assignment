@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Carrot body -->
+  <path d="M256 48 L384 176 L384 400 L128 400 L128 176 Z" fill="#ff7f00" />
+  <!-- Carrot top -->
+  <path d="M256 48 L224 16 L192 48 L160 16 L128 48 L160 80 L192 48 L224 80 L256 48 L288 80 L320 48 L352 80 L384 48 L352 16 L320 48 L288 16 Z" fill="#00aa00" />
+  <!-- Carrot details -->
+  <path d="M160 240 L200 280 M240 320 L280 360 M320 240 L280 280 M200 360 L240 320" stroke="#e67300" stroke-width="8" />
+</svg>
